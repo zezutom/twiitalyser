@@ -27,6 +27,11 @@
             android:name=".EmbeddedTweetsActivity"
             android:label="@string/title_activity_tweet" >
         </activity>
+
+        <activity
+            android:name=".TweetListActivity"
+            android:label="@string/title_activity_tweet_list" >
+        </activity>
     </application>
 
 </manifest>
